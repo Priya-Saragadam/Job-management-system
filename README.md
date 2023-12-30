@@ -19,7 +19,7 @@ This project serves as a tool for small enterprises to manage their tickets/jobs
 
 - Print Jobs - A feature, that can be used to print pending cases (custom feature) 
 
-#Custom Build/ Contact Info
+# Custom Build/ Contact Info
 - As of now, this tool is customised and built for Anand Technologies, Hyderabad. 
 - Please write to torikasaragadam.ias@gmail.com for building a customised application for you.
 
