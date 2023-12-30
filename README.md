@@ -3,9 +3,9 @@ This project serves as a tool for small enterprises to manage their tickets/jobs
 
 # Features of the tool
 * There are 3 user types:
-   a. customer - A customer page has options to create a new job and see their job status
-   b. engineer - An engineer page has the option to create a job, view all the jobs, view pending jobs, close a job, view all details of a job
-   c. superuser - has all the privileges of an engineer page and also has the ability to create users, view/edit billing information for a particular job.
+   *. customer - A customer page has options to create a new job and see their job status
+   *. engineer - An engineer page has the option to create a job, view all the jobs, view pending jobs, close a job, view all details of a job
+   *. superuser - has all the privileges of an engineer page and also has the ability to create users, view/edit billing information for a particular job.
 
 [] Dashboard - The content on the dashboard is displayed based on the role of the user.
 
